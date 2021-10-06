@@ -11,7 +11,7 @@
 4 . Scrapy
 #### 安装教程
 
-1.  git clone https://gitee.com/blackjackfsociety/miaomu.git
+1.  git clone https://github.com/fsocietyjack/miaomu
 2.  将miaomu/src/目录下的miaomu.zip解压缩
 
 #### 使用说明
